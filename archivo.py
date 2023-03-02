@@ -8,4 +8,4 @@ number=456
 def sum(n,m):
     suma=n+m
     return suma
-print(sum)
+print(sum, 23)
