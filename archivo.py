@@ -5,3 +5,6 @@ print("Hello World")
 3
 45
 number=456
+def sum(n,m):
+    suma=n+m
+    return suma
