@@ -7,5 +7,4 @@ print("Hello World")
 number=456
 def sum(n,m):
     suma=n+m
-    return suma
-print(sum, 23)
+    
